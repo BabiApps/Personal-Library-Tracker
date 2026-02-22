@@ -2,6 +2,8 @@
 
 A responsive web app for discovering and saving books to a personal wishlist, powered by the Google Books API.
 
+**🚀 [Live Demo: Play with the app here!](https://BabiApps.github.io/Personal-Library-Tracker/)**
+
 ## Features
 
 - **Book Search** — Search for any book in real time with debounced input (500ms) to minimise API calls
